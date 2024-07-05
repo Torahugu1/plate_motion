@@ -36,7 +36,6 @@ plate boundariesは[An updated digital model of plate boundaries](https://doi.or
 ## Install
 
 ```bash
-python -m pip install ~/plate_motion
 python -m pip install git+https://github.com/Torahugu1/plate_motion.git
 ```
 
